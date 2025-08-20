@@ -1,17 +1,6 @@
 <!DOCTYPE html>
   <html lang="en">
-  <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, 
-  initial-scale=1.0">
-      <title>Couch Control - Privacy Policy</title>
-      <style>
-          body { font-family: -apple-system, sans-serif; margin: 40px;
-  line-height: 1.6; }
-          h1 { color: #333; }
-          h2 { color: #666; margin-top: 30px; }
-      </style>
-  </head>
+ 
   <body>
       <h1>Privacy Policy for Couch Control</h1>
       <p><strong>Effective Date:</strong> January 2025</p>
