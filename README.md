@@ -24,7 +24,4 @@
   ## Contact Us
 
   If you have questions about this privacy policy, please contact:
-  [your-email@example.com]
-
-  Your privacy policy URL will be:
-  https://github.com/[your-username]/[repository-name]
+  neutralcoc123@gmail.com
